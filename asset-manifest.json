@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/okolobaha-me/goit-react-hw-02-feedback.git/static/css/main.7acaea2f.css",
-    "main.js": "/okolobaha-me/goit-react-hw-02-feedback.git/static/js/main.ba6a5354.js",
+    "main.js": "/okolobaha-me/goit-react-hw-02-feedback.git/static/js/main.cd1470fb.js",
     "static/js/787.6b7abe35.chunk.js": "/okolobaha-me/goit-react-hw-02-feedback.git/static/js/787.6b7abe35.chunk.js",
     "index.html": "/okolobaha-me/goit-react-hw-02-feedback.git/index.html",
     "main.7acaea2f.css.map": "/okolobaha-me/goit-react-hw-02-feedback.git/static/css/main.7acaea2f.css.map",
-    "main.ba6a5354.js.map": "/okolobaha-me/goit-react-hw-02-feedback.git/static/js/main.ba6a5354.js.map",
+    "main.cd1470fb.js.map": "/okolobaha-me/goit-react-hw-02-feedback.git/static/js/main.cd1470fb.js.map",
     "787.6b7abe35.chunk.js.map": "/okolobaha-me/goit-react-hw-02-feedback.git/static/js/787.6b7abe35.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.ba6a5354.js"
+    "static/js/main.cd1470fb.js"
   ]
 }
